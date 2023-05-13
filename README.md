@@ -7,7 +7,7 @@ Shortcuts for Gboard are supported on all Android devices. As of now, these shor
 
 ## Usage
 
-It's as simple as typing `\sum`, `\R`, etc. on the keyboard and tapping the suggested symbol!
+It's as simple as typing `sum`, `R`, etc. on the keyboard and tapping the suggested symbol!
 
 See [`dictionary.txt`](https://github.com/DenverCoder1/latex-gboard-dictionary/blob/master/dictionary.txt) for a full list of supported symbols.
 
