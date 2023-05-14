@@ -55,6 +55,17 @@ Download as a **zip folder** to import into Gboard
 
 Thanks to [Abraham Murciano](https://github.com/abrahammurciano/) and [Denver Coder1](https://github.com/DenverCoder1) for helping to come up with the idea and [all who contributed](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/graphs/contributors) for making this project as useful as it can be.
 
+## How to contribute
+
+If you want to contribute to this project, you are welcome to do so. Here are some steps you can follow:
+
+1. Fork this repository and clone it to your local machine.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with a descriptive message.
+4. Push your branch to your forked repository.
+5. Create a pull request from your branch to the main branch of this repository.
+6. Wait for the review and feedback.
+
 ## Support
 
 💖 If you like this project, give it a ⭐ and share it with friends!
